@@ -1,7 +1,7 @@
 module.exports = {
-  theme: '',
-  title: 'ex-element',
-  description: '一些片段集合',
+  base: '/ex-element/',
+  title: 'ExFragment',
+  description: '片段拾遗',
   base: '/',
   port: '8080',
   themeConfig: { // 新增代码

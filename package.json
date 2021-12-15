@@ -7,9 +7,11 @@
     "build": "vue-cli-service build",
     "doc:dev": "vuepress dev docs",
     "doc:build": "vuepress build docs",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
+    "async-validator": "1.11.5",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
