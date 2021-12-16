@@ -1,8 +1,7 @@
 module.exports = {
-  base: '/ex-element/',
   title: 'ExFragment',
   description: '片段拾遗',
-  base: '/',
+  base: '/ex-element/',
   port: '8080',
   themeConfig: { // 新增代码
     nav: [ // 配置顶部导航栏
@@ -15,7 +14,11 @@ module.exports = {
         link: '/componentDocs/button'
       }
     ],
-    sidebar: ['/', '/componentDocs/button' ]
+    sidebar: [
+      '/', 
+      '/componentDocs/button',
+      '/componentDocs/switch',
+    ]
   },
   head: [],
   plugins: [ 'demo-container' ],
