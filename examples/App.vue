@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <el-card>
       <x-button>default</x-button>
       <x-button type="primary">primary</x-button>
