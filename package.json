@@ -40,6 +40,7 @@
     "vue-template-compiler": "^2.6.11",
     "vuepress": "^1.8.2",
     "vuepress-plugin-demo-container": "^0.2.0",
+    "vuepress-theme-reco": "^1.6.10",
     "webpack-cli": "^4.9.1"
   },
   "eslintConfig": {

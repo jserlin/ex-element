@@ -1,7 +1,8 @@
 ## 用途
 > 可以用这套当作模板，搭建、扩展组件库或者存放一些代码片段
 
-
+## 文档地址
+- [https://jserlin.github.io/ex-element/](https://jserlin.github.io/ex-element/)
 
 ## 快速开始
 
@@ -36,8 +37,6 @@ Vue.use(XButton);
   },
   ```
 
-## 文档地址
-- [https://jserlin.github.io/ex-element/](https://jserlin.github.io/ex-element/)
 
 
 

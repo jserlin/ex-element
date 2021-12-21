@@ -1,8 +1,9 @@
 module.exports = {
   title: 'ExElement',
-  description: '片段拾遗',
+  description: '文档模板，组件模板，扩展模板，按需使用',
   base: '/ex-element/',
   port: '8080',
+  theme: 'reco',
   themeConfig: { // 新增代码
     nav: [ // 配置顶部导航栏
       { text: '首页',link: '/' },
@@ -35,7 +36,8 @@ module.exports = {
           '/extendComponents/switch'
         ]
       }
-    ]
+    ],
+    subSidebar: 'auto'
   },
   head: [],
   plugins: [ 'demo-container' ],
