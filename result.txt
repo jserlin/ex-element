@@ -1,0 +1,57 @@
+F:\vue\ex-element\ex-repo
+├─.eslintignore
+├─.gitignore
+├─babel.config.js
+├─deploy.sh
+├─gulpfile.js
+├─package-lock.json
+├─package.json
+├─README.md
+├─vue.config.js
+├─webpack.component.js
+├─public
+|   ├─favicon.ico
+|   └index.html
+├─packages
+|    ├─lib
+|    |  ├─index.js
+|    |  ├─ex-swicth
+|    |  |     ├─index.js
+|    |  |     ├─src
+|    |  |     |  └main.vue
+|    |  ├─button
+|    |  |   ├─index.js
+|    |  |   ├─src
+|    |  |   |  └main.vue
+|    ├─css
+|    |  ├─button.scss
+|    |  └index.scss
+├─examples
+|    ├─App.vue
+|    ├─main.js
+|    ├─assets
+|    |   └logo.png
+├─docs
+|  ├─README.md
+|  ├─guide
+|  |   └README.md
+|  ├─extendComponents
+|  |        ├─README.md
+|  |        └switch.md
+|  ├─customComponents
+|  |        ├─button.md
+|  |        └README.md
+|  ├─.vuepress
+|  |     ├─config.js
+|  |     ├─enhanceApp.js
+|  |     ├─styles
+|  |     |   ├─index.styl
+|  |     |   └palette.styl
+├─dist
+|  ├─button.umd.js
+|  ├─ex-swicth.umd.js
+|  ├─index.umd.js
+|  ├─css
+|  |  ├─button.css
+|  |  └index.css
+├─.git

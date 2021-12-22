@@ -20,7 +20,11 @@ module.exports = {
     sidebar: [
       {
         title: '指南',
-        path: '/'
+        path: '/',
+      },
+      {
+        title: '从零开始搭建组件库',
+        path: '/guide/',
       },
       {
         title: '自定义组件',   // 必要的
@@ -37,6 +41,8 @@ module.exports = {
         ]
       }
     ],
+    repo: 'jserlin/ex-element',
+    repoLabel: '查看源码',
     subSidebar: 'auto'
   },
   head: [],

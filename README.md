@@ -3,6 +3,7 @@
 
 ## 文档地址
 - [https://jserlin.github.io/ex-element/](https://jserlin.github.io/ex-element/)
+- [从零开始搭建组件库](https://jserlin.github.io/ex-element/guide/)
 
 ## 快速开始
 
