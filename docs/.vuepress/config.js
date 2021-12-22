@@ -41,8 +41,6 @@ module.exports = {
         ]
       }
     ],
-    repo: 'jserlin/ex-element',
-    repoLabel: '查看源码',
     subSidebar: 'auto'
   },
   head: [],
