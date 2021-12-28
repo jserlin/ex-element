@@ -296,7 +296,11 @@ Vue.use(XButton);
 
 ## 搭建组件库文档站点
 ### 使用vuepress
-  - 初始化组件库结构目录
+安装`vuepress`
+`npm install -D vuepress`
+新建docs目录，用于存放文档跟vuepress配置
+
+  - 初始化文档目录
   - 编写按钮组件文档  
   - 应用demo插件,使用reco主题
   - 在github上创建github Pages

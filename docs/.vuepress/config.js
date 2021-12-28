@@ -27,6 +27,10 @@ module.exports = {
         path: '/guide/',
       },
       {
+        title: 'Typora结合picGo',
+        path: '/guide/typoraAndPicgo',
+      },
+      {
         title: '自定义组件',   // 必要的
         path: '/customComponents/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
         children: [
