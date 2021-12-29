@@ -31,6 +31,10 @@ module.exports = {
         path: '/guide/typoraAndPicgo',
       },
       {
+        title: 'Sentry前端监控指南',
+        path: '/guide/sentryAndWeb',
+      },
+      {
         title: '自定义组件',   // 必要的
         path: '/customComponents/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
         children: [
