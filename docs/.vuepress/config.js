@@ -35,6 +35,10 @@ module.exports = {
         path: '/guide/sentryAndWeb',
       },
       {
+        title: 'nginx常用配置',
+        path: '/guide/nginxAdnWeb',
+      },
+      {
         title: '自定义组件',   // 必要的
         path: '/customComponents/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
         children: [
